@@ -1,0 +1,3 @@
+001	Nguyen Van An	20	10000
+002	Nguyen Thi Binh	24	15000
+003	Phan Van Duc	25	20000
